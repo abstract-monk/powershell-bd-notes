@@ -1,3 +1,83 @@
 
 Command Spotting - Windows Cmd.exe
 
+find information from cmd.exe help menu commands
+
+> help command_name
+
+or
+
+> command_name /?
+
+basics:
+
+call
+cd
+cls
+date
+dir
+echo
+find
+hostname
+pause
+runas
+shutdown
+sort
+taskkill
+tasklist
+time
+more
+start
+
+network:
+
+ftype
+getmac
+ipconfig
+netsh
+netstat
+nslookup
+pathping
+ping
+route
+systeminfo
+telnet
+tracert
+
+files:
+
+type
+attrib
+comp
+copy
+xcopy
+del
+expand
+fc
+move
+mkdir
+rmdir
+tree
+assoc
+icacls
+
+media:
+
+diskpart
+format
+chkdsk
+label
+driverquery
+
+net commands:
+
+> net /?
+> net <command> /help
+
+net use
+net user
+net group
+
+
+
+
