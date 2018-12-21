@@ -1,12 +1,21 @@
 
-Some Links
+Some Links:
+
+Powershell Core Github Repository
+https://github.com/PowerShell
+
+Powershell Gallery - Powershell Community Code Repository
+https://www.powershellgallery.com/
 
 Great 5 post blog series on the evolution of Windows Command Line by Rich Turner  
 Senior Project Manager Windows Console and Windows Linux Subsystem 
 @richtturn_ms on Twitter
-
 https://blogs.msdn.microsoft.com/commandline/2018/06/20/windows-command-line-backgrounder/
 
-Powershell Gallery - Powershell Community code repository
+Reading:
 
-https://www.powershellgallery.com/
+Learn Windows Powershell in a Month of Lunches
+by Don Jones and Jeffery Hicks
+
+Windows Powershell in Action
+by Bruce Payette
