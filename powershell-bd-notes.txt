@@ -3,3 +3,18 @@ Introduction to Poweshell
 Braindump Outline Notes
 12/21/2018 
 
+1. What is powershell
+
+2. Powershell History, Current Versions, Future
+
+3. What is Powershell used for
+ - sysadmin
+ - cloud infrastructure
+ - pentesting
+ - ci/cd automation
+ - configuration management
+ - container management 
+ - database administration
+ - scripting and tool making
+ 
+ 
