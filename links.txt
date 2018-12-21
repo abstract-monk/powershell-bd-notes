@@ -1,0 +1,9 @@
+
+Some Links
+
+Great 5 post blog series on the evolution of Windows Command Line by Rich Turner  
+Senior Project Manager Windows Console and Windows Linux Subsystem 
+@richtturn_ms on Twitter
+
+https://blogs.msdn.microsoft.com/commandline/2018/06/20/windows-command-line-backgrounder/
+
