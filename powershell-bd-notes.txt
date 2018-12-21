@@ -43,5 +43,18 @@ Braindump Outline Notes
  - the help system is update-able
  - commands, cmdlets, functions, etc
  - cmdlet Get-Help, help and man 
+   * help is a function wrapper
+   * man is an alias for help
+ - help topics for most cmdlets and their parameters
+ - also topics for background concepts and general info
+ - using wildcards to find help topics
+ - parameter sets and common parameters
+ - optional and mandatory parameters
+ - postional parameters
+ - full help
+ - parameter values
+ - command examples
 
+ 6. Running Commands
+ 
  
