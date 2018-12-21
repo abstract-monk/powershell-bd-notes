@@ -4,9 +4,17 @@ Braindump Outline Notes
 12/21/2018 
 
 1. What is powershell
+ - object oriented scripting language
 
-2. Powershell History, Current Versions, Future
-
+2. Powershell History, Current Versions, Future 
+ - command.exe, cmd.exe, cscript, vbscript
+ - unix tools for windows
+ - powershell version 1 - 5
+ - powershell core (version 6.x)
+ - azure and and linux on windows
+ - powershell is built on .NET framework
+ - what is .NET
+ 
 3. What is Powershell used for
  - sysadmin
  - cloud infrastructure
@@ -17,4 +25,23 @@ Braindump Outline Notes
  - database administration
  - scripting and tool making
  
+4. Getting Started
+ - which version am i using, $PSVersiontable
+ - Windows is not case sensitive
+ - Windows allows spaces in filenames
+ - what's up with all these powershells on my computer
+   * powershell 64 bit, powershell 32 bit, powershell ise
+ - powershell core
+ - installing powershell, uninstalling powershell
+ - console properties
+ - problems from horizontal scroll
+ - tab completion
+ - administrator vs non-admin shells
+ - third party scripting environments
+ 
+5. Diving in to cmdlets and how to Get-Help
+ - the help system is update-able
+ - commands, cmdlets, functions, etc
+ - cmdlet Get-Help, help and man 
+
  
