@@ -7,3 +7,6 @@ Senior Project Manager Windows Console and Windows Linux Subsystem
 
 https://blogs.msdn.microsoft.com/commandline/2018/06/20/windows-command-line-backgrounder/
 
+Powershell Gallery - Powershell Community code repository
+
+https://www.powershellgallery.com/
