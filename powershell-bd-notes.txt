@@ -98,5 +98,41 @@ Braindump Outline Notes
    * another registry example
 
 8. Connecting Commands with the Pipeline
+ - what is the pipeline
+   * a way to chain the output of a command to the input of another command 
+ - some commands already use the pipeline in the background
+   * dir, help
+ - exporting to csv or xml
+ - comparing files, using in parentheses to order operations
+ - directing output to file or printer
+   * out-file, out-printer, out-default
+ - converting to html
+ - using cmdlets to modify the system
+ - get-content vs. import-csv and import-clixml
 
+9. Adding Commands
+ - modules vs snapins
+  * get-pssnapin
+  * get-command -pssnapin $snapin_name
+  * get-content env:psmodulepath
+  * get-module
+ - profiles scripts, preloading
+ 
+10. Objects are data
+ - what are objects? 
+   * objects, properties, methods, collection
+   * a collection of objects can be thought of as an in-memory table of information
+   * rows are objects, and columns are attibutes
+ - powershell uses objects to represent data
+   * because windows is an object oriented system
+   * objects removes the overhead of text-manipulation
+ - discover objects with get-member
+ - TypeName and Powershell namespace
+ - properties always contain a value
+   * many properties are read-only
+ - methods are actions you can direct on an object
+ - objects can also have Events which notify of a change in state
+ - sorting objects with Sort-Object
+ - selecting the properties you want with Select-Object 
+  * select-object vs where-object
  
