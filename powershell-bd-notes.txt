@@ -78,5 +78,25 @@ Braindump Outline Notes
  - dealing with errors 
  
 7. Working with Providers
- - 
+ - what are providers
+   * adapters that allow connections to different types of data stores
+ - capabilities
+   * ShouldProcess - support for parameters that allow you to test before committing
+   * Filter - supports Filter paramter to manipulate content from providers
+   * Credentials - permits specification of alternative credentials
+   * Transactions - supports series of changes that can be committed or rolledback as single unit
+ - file system organization
+   * drives, folders, files
+   * powershell uses generic terms such as "item"
+ - how the file system is like other data stores
+   * windows registry
+   * powershell connects to drives, exposing items and item properties
+ - navigating the file system
+ - using wildcards and literal paths
+   * not all providers allow for wilcards
+ - working with other providers
+   * another registry example
+
+8. Connecting Commands with the Pipeline
+
  
