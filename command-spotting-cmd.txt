@@ -18,6 +18,7 @@ date
 dir
 echo
 find
+findstr
 hostname
 pause
 runas
@@ -69,7 +70,7 @@ chkdsk
 label
 driverquery
 
-net commands:
+net commands and other active directory tools:
 
 > net /?
 > net <command> /help
@@ -78,6 +79,7 @@ net use
 net user
 net group
 
+dsquery
 
 
 
